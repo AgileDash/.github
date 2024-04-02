@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Solvatech is focused on building automated solutions for cloud security. Please feel free to share your thoughts on our solutions.
+AgileDash is focused on building automated solutions for cloud security. Please feel free to share your thoughts on our solutions.
 <!--
 **solvatech/.github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
